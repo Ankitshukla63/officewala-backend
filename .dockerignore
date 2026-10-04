@@ -1,0 +1,6 @@
+target/
+.idea/
+.git/
+uploads/
+office-wala-backend/
+*.iml
